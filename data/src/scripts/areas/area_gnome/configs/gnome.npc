@@ -259,8 +259,9 @@ param=attack_anim,midget_attacksword
 param=defend_anim,midget_blockshield
 param=death_anim,midget_death
 param=attack_sound,hacksword_slash
-// param=attack_sound,brassclash
+// param=defend_sound,
 param=death_sound,gnome_death
+// osrs defend sound brassclash
 
 [npc_165]
 name=Gnome shop keeper
@@ -339,7 +340,7 @@ param=damagetype,^crush_style
 param=attack_anim,midget_attackbow
 param=defend_anim,midget_block
 param=death_anim,midget_death
-param=attack_sound,shortbow
+param=attack_sound,arrowlaunch2
 param=defend_sound,gnome_hit
 param=death_sound,gnome_death
 
@@ -379,7 +380,7 @@ param=damagetype,^crush_style
 param=attack_anim,midget_attackbow
 param=defend_anim,midget_block
 param=death_anim,midget_death
-param=attack_sound,shortbow
+param=attack_sound,arrowlaunch2
 param=defend_sound,gnome_hit
 param=death_sound,gnome_death
 
